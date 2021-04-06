@@ -10,7 +10,7 @@ Mohak327
 🌱 I’m currently learning Front-end Web Development.
   (Working my way around component by component)
 
-🤝 Feel free to contact me to if you want to collaborate on a project or have an idea.
+🤝 Feel free to contact me to if you have an idea and want to collaborate on a project.
   (Teamwork makes the dream work!) 
 
 📫 Reach me at jade.parzival@gmail.com
