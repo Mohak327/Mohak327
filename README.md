@@ -3,6 +3,7 @@
 <!--
 **Mohak327/Mohak327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  ![counter](https://[https://pipedream.com/@mohak327/copy-of-github-profile-view-counter-p_yKCDYNZ/edit].m.pipedream.net)
 
 Hi 👋, I'm Mohak!
 Mohak327
