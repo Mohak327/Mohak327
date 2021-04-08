@@ -2,6 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical)
 
-[![Mohak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mohak327&layout=compact&theme=radical)]
-
 
