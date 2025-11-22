@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical)
 -->
 
+<!--
 <div>
   <img 
     width="240"
@@ -14,6 +15,7 @@
 
  ## True developing starts within - just like a monk refining wisdom, code and character are built one mindful step at a time.
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical)
+-->
 
 <table>
   <tr>
@@ -22,12 +24,22 @@
     </td>
     <td>
       <h2>
-        True developing starts within - just like a monk refining wisdom, code and character are built one mindful step at a time.
+        True developing starts within.
       </h2>
+      <p>
+        Just like a monk refining wisdom, code and character are built one mindful step at a time.
+      </p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical" alt="Top Langs"/>
     </td>
   </tr>
 </table>
+
+<!--
+| ![Pixel Monk](iammoksh.png) | True developing starts within – just like a monk refining wisdom, code and character are built one mindful step at a time.<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical) |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+-->
+
+
 
 
 
