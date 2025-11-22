@@ -3,15 +3,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical)
 -->
 
-<p align="left">
+<!-- <p align="left">
   <img src="moksh.png" alt="Pixel Monk" width="280"/>
 </p>
 
 <p align="left">
     "True developing starts within - just like a monk refining wisdom, <br>
      code and character are built one mindful step at a time."
-</p>
+</p> -->
 
----
+<div>
+<img style="max-width: 40%;z-index: 99;position: relative;" align="left" src="moksh.png" />
+</div>
+<h2>True developing starts within - just like a monk refining wisdom, <br>
+     code and character are built one mindful step at a time.</h2>
 
 
