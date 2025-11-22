@@ -3,19 +3,31 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical)
 -->
 
-<!-- <p align="left">
-  <img src="moksh.png" alt="Pixel Monk" width="280"/>
-</p>
-
-<p align="left">
-    "True developing starts within - just like a monk refining wisdom, <br>
-     code and character are built one mindful step at a time."
-</p> -->
-
 <div>
-<img style="max-width: 40%;z-index: 99;position: relative;" align="left" src="moksh.png" />
+  <img 
+    width="240"
+    style="z-index: 99; position: relative;" 
+    align="left"
+    src="iammoksh.png" 
+  />
 </div>
-<h2>True developing starts within - just like a monk refining wisdom, <br>
-     code and character are built one mindful step at a time.</h2>
+
+ ## True developing starts within - just like a monk refining wisdom, code and character are built one mindful step at a time.
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical)
+
+<table>
+  <tr>
+    <td>
+      <img src="iammoksh.png" width="280" alt="Pixel Monk"/>
+    </td>
+    <td>
+      <h2>
+        True developing starts within - just like a monk refining wisdom, code and character are built one mindful step at a time.
+      </h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak327&layout=compact&theme=radical" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
+
 
 
