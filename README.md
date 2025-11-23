@@ -24,7 +24,7 @@
     </td>
     <td>
       <h2>
-        True developing starts within.
+        True development starts within.
       </h2>
       <p>
         Just like a monk refining wisdom, code and character are built one mindful step at a time.
